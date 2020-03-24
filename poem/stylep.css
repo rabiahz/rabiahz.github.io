@@ -1,0 +1,31 @@
+.lineU{
+   font-family: 'NotoNastaliqUrduRegular';
+   font-weight: 600;
+    font-size: 1.5vw;
+    line-height: 4.6;
+ color: crimson;
+    text-align: center; 
+    position: absolute;
+    top: 250px;
+    width: 100%;
+}
+.lineE{
+font-family: 'Fondamento', cursive;
+    font-weight: 400;
+    text-align: center;
+    font-size: 1.5vw;
+    line-height: 4.6;
+     position: absolute;
+    top: 300px;
+    width: 100%;
+}
+
+.lineOne{
+     font-family: 'NotoNastaliqUrduRegular';
+    font-size: 5vw;
+  text-align:  center;
+position: absolute;
+    width: 100%;
+    top: 50px;
+    
+}

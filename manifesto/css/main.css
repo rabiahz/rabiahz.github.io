@@ -1,0 +1,76 @@
+.lineT {
+    font-family: 'Shadows Into Light Two', cursive;
+    font-size: 50pt;
+    font-weight: 900;
+    color: cornflowerblue;
+    line-height: 0;
+    text-align: center;
+
+
+}
+
+#lineOne {
+    color: purple;
+}
+
+#lineTwo {
+    font-size: 40px;
+}
+
+#lineThree {
+    font-family: 'Gelasio', serif;
+    font-size: 30px;
+    background-color: aqua;
+}
+
+#lineFour {
+    letter-spacing: 10px;
+}
+
+#lineFive {
+    text-align: center;
+    text-decoration-line: underline;
+    font-size: 90px
+}
+
+#lineSix {
+    border: solid 5px crimson;
+    text-align: center
+}
+
+#lineSeven {
+    text-decoration: line-through;
+}
+
+#lineEight {
+    background-color: fuchsia;
+}
+
+#lineNine {
+    opacity: 0.2;
+}
+
+#lineTen {
+    box-shadow: 5px 10px;
+    border: solid 2px orange;
+    padding: inherit;
+
+
+}
+
+#lineEleven {
+    font-family: 'Lobster', cursive;
+    font-size: 20px;
+    color: darkmagenta;
+}
+
+#lineTwelve {
+    font-weight: 900;
+    font-style: italic;
+}
+
+#lineThirteen {
+    border: 4px dotted blue;
+    padding-bottom: 10px;
+    padding-top: 10px;
+}

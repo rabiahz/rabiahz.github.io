@@ -1,0 +1,50 @@
+html{
+    box-sizing: border-box;
+}
+
+
+body {
+    background-color: lightgray;
+}
+.pink{
+    width: 400px;
+    height: 200px;
+    background-color: mistyrose
+}
+.blue{
+    width: 400px;
+    height: 200px;
+    background-color: midnightblue;
+}
+.white{
+    width: 100px;
+    height: 800px;
+    background-color: ghostwhite;
+    margin-left: -9px;
+    display: inline-block;
+    
+}
+.blueone{
+    width: 100px;
+    height: 800px;
+    background-color: midnightblue;
+    display: inline-block; 
+    margin-left: -9px
+}
+.stackone{
+    display: inline-block;
+}
+.red{
+    width: 175px;
+    height: 800px;
+    background-color: maroon;
+    display: inline-block;
+    margin-left: -8px
+}
+.bluetwo{
+    width: 175px;
+    height: 800px;
+    background-color: midnightblue;
+    display: inline-block; 
+    margin-left: -8px
+}
