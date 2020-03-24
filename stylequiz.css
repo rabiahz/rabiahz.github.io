@@ -1,0 +1,14 @@
+.headerOne{
+    font-family: serif, "Georgia";
+    font-size: 45pt;
+    line-height: .1;
+    text-align: center;
+    letter-spacing: 10pt;
+    
+}
+.subOne{
+    text-align: center;
+    font-style: italic;
+    letter-spacing: -.1pt;
+    line-height: 5;
+}

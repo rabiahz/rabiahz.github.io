@@ -1,0 +1,74 @@
+.green {
+    background-color: darkgreen;
+    height: 500px;
+    width: 20px;
+    display: inline-block;
+    margin-left: -4pt;
+
+}
+
+.yellow {
+    background-color: orange;
+    height: 500px;
+    width: 20px;
+    display: inline-block;
+    margin-left: -4pt;
+}
+
+.blue {
+    background-color: darkblue;
+    height: 500px;
+    width: 20px;
+    display: inline-block;
+    margin-left: -4pt;
+}
+.white{
+    background-color: white;
+    height: 500px;
+    width: 20px;
+    display: inline-block;
+    margin-left: -4pt;
+}
+.mustard{
+background-color: sandybrown;
+    height: 500px;
+    width: 20px;
+    display: inline-block;
+    margin-left: -4pt;
+}
+.black{
+    background-color: black;
+    height: 500px;
+    width: 20px;
+    display: inline-block;
+    margin-left: -4pt;
+}
+.purple{
+    background-color: mediumpurple;
+    height: 500px;
+    width: 20px;
+    display: inline-block;
+    margin-left: -4pt;
+}
+.pink{
+    background-color: orangered;
+    height: 500px;
+    width: 20px;
+    display: inline-block;
+    margin-left: -4pt;
+}
+.lightgreen{
+    background-color: lightgreen;
+    height: 500px;
+    width: 20px;
+    display: inline-block;
+    margin-left: -4pt;
+}
+.brown{
+    background-color: saddlebrown;
+    height: 500px;
+    width: 20px;
+    display: inline-block;
+    margin-left: -4pt;
+}
+}

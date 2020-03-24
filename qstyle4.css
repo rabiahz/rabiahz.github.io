@@ -1,0 +1,49 @@
+body{
+    background-color: floralwhite;
+    
+}
+.lineOne{
+    font-family: 'Montserrat', sans-serif;
+color: red;
+    font-size: 15pt;
+    font-weight: 900
+}
+.lineTwo{
+font-family: 'Montserrat', sans-serif;
+    fontzxww-size: 13pt;
+    font-weight:500;
+    margin-top: -.01px;
+    letter-spacing: 1;
+}
+.line{
+    width: 500px;
+    height: 0px;
+    border-bottom: 1px solid black;
+    position: center;
+    margin-top: -10px;
+}
+.half-circle{
+    width: 500px;
+    height: 1000px;
+     border-radius: 0 1010px 1010px 0;
+    border: 100px solid black;
+    opacity: 0.2;
+    border-left: 0px;
+    display: inline-block;
+    filter: blur(15px)
+
+    
+}
+.half-circle1{
+     width: 500px;
+    height: 700px;
+     border-radius: 0 810px 810px 0;
+    border: 100px solid black;
+    opacity: 0.2;
+    border-left: 0px;
+    display: inline-block;
+    filter: blur(15px);
+    margin-left: -600pt;
+    margin-bottom: 100pt;
+    
+}
