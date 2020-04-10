@@ -21,7 +21,7 @@ ul {
 }
 
 li {
-    float: left;
+    float: center;
     display: inline-block;
     text-align: center;
     padding: 10px 190px;
