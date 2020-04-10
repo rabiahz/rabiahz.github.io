@@ -1,24 +1,30 @@
 body {
-background-color: floralwhite
+background-color: floralwhite;
+    padding: 20px 20px 4px
 }
 
 .lineOne {
-font-family: 'Shadows Into Light Two', cursive;
-font-size: 60pt;
-line-height: 0.1;
-font-weight: 600
+font-family: 'Raleway', sans-serif;
+font-size: 40pt;
+font-weight: 600;
+    line-height: 0.1;
 }
+.linepara{
+    font-family:'raleway', sans-serif;
+font-size: 15pt;
+font-weight: 900;
 
+}
 .lineTwo{
-font-family:'Shadows Into Light Two', cursive;
+font-family:'raleway', sans-serif;
 font-size: 15pt;
 font-weight: 900;
 line-height: .5
 }
 
 .lineThree{
-font-family:'Shadows Into Light Two', cursive;
-font-size: 15pt;
+font-family:'raleway', sans-serif;
+font-size: 10pt;
 }
 
 
