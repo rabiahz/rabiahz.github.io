@@ -21,10 +21,10 @@ ul {
 }
 
 li {
-    float: center;
+    float: left;
     display: inline-block;
-    text-align: center;
-    padding: 10px 190px;
+    padding: 10px 190px ;
+    margin-left: 400px
 }
 
 li:hover {
